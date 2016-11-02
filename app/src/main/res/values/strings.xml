@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LearningJava</string>
     <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello from the dragonboat</string>
 </resources>
